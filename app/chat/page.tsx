@@ -3,6 +3,7 @@
 import Navbar from "@/components/navbar";
 import Chat_window from "@/components/chat_window";
 import Table from "@/components/table";
+import Footer from "@/components/footer";
 
 import { useState } from 'react';
 
@@ -38,6 +39,7 @@ export default function Chat() {
       <Navbar />
       <Table />
       <Chat_window />
+      <Footer />
       {/* <div>
         <div id="message-area">
           {messages.map((msg, index) => (

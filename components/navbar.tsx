@@ -5,7 +5,7 @@ import Link from "next/link";
 const Navbar = () => {
   
     return (
-        <nav className=" bg-white w-full flex relative justify-between items-center mx-auto px-8 h-20">
+        <nav className="bg-white w-full flex justify-between items-center mx-auto px-8 h-20 sticky top-0 overflow-auto z-50">
             
             <div className="inline-flex">
                 <a className="_o6689fn" href="/chat/"
