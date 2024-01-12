@@ -22,9 +22,9 @@ const Navbar = () => {
             <div className="flex justify-end items-center relative">
             
                 <div className="flex mr-4 items-center">
-                <a className="inline-block py-2 px-3 hover:bg-gray-200 rounded-full" href="#">
+                {/* <a className="inline-block py-2 px-3 hover:bg-gray-200 rounded-full" href="#">
                     <div className="flex items-center relative cursor-pointer whitespace-nowrap">Refresh data</div>
-                </a>
+                </a> */}
                 <div className="block relative">
                     <button type="button" className="inline-block py-2 px-3 hover:bg-gray-200 rounded-full relative ">
                     <div className="flex items-center h-5">
