@@ -36,8 +36,8 @@ const Chat_window = () => {
                         <circle cx="45" cy="45" r="1" fill="#000" />
                         <circle cx="55" cy="45" r="1" fill="#000" />
 
-                        <line x1="50" y1="30" x2="40" y2="20" stroke="#009688" stroke-width="2" />
-                        <line x1="50" y1="30" x2="60" y2="20" stroke="#009688" stroke-width="2" />
+                        <line x1="50" y1="30" x2="40" y2="20" stroke="#009688" strokeWidth="2" />
+                        <line x1="50" y1="30" x2="60" y2="20" stroke="#009688" strokeWidth="2" />
                         </svg>
                     <div className="ml-3 bg-gray-100 p-3 rounded-lg">
                     <p className="text-sm text-gray-800">Hello! How can I help you today?</p>
