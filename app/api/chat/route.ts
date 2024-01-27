@@ -31,12 +31,19 @@ export async function POST(req: NextApiRequest) {
       messages: [{ role: "user", content: message }],
     });
 
-    return new Response(JSON.stringify({ response: completion.choices[0].message.content }), {
+    console.log(message);
+    console.log("OpenAI Response:", completion);
+
+    const apiResponse = { response: completion.choices[0].message.content };
+    console.log("API Response being sent:", apiResponse);
+    return new Response(JSON.stringify(apiResponse), {
       status: 200,
       headers: {
         'Content-Type': 'application/json',
       },
     });
+
+
   } catch (error) {
     let errorMessage = 'An unknown error occurred';
     if (error instanceof Error) {

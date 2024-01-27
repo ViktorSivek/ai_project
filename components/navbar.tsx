@@ -1,5 +1,6 @@
 "use client"
 
+import Image from "next/image";
 import Link from "next/link";
 
 const Navbar = () => {
@@ -8,14 +9,15 @@ const Navbar = () => {
         <nav className="bg-white w-full flex justify-between items-center mx-auto px-8 h-20 sticky top-0 overflow-auto z-50">
             
             <div className="inline-flex">
-                <a className="_o6689fn" href="/chat/"
-                    ><div className="hidden md:block">
-                        <img src="/PČR.png" alt="Logo" width="60" height="32" />
+                <a className="_o6689fn" href="/chat/">
+                    <div className="hidden md:block">
+                        <Image src="/PČR.png" alt="Logo" width={60} height={32} priority />
                     </div>
                     <div className="block md:hidden">
-                        <img src="/PČR.png" alt="Mobile Logo" width="30" height="32" />
+                        <Image src="/PČR.png" alt="Mobile Logo" width={60} height={32} priority />
                     </div>
                 </a>
+
             </div>
 
             <div className="flex-initial">
