@@ -19,7 +19,7 @@ const Chat_window = () => {
     const handleSubmit = async (event:any) => {
         event.preventDefault();
         if (message.trim()) {
-            setChatHistory([...chatHistory, { type: 'question', text: message }]);
+            setChatHistory(chatHistory => [...chatHistory, { type: 'question', text: message }]);
 
             try {
                 const response = await fetch('/api/chat', {
@@ -30,8 +30,6 @@ const Chat_window = () => {
                     body: JSON.stringify({ message }),
                 });
 
-                console.log("Raw fetch response:", response);
-
                 if (!response.ok) {
                     throw new Error(`Error: ${response.status}`);
                 }
@@ -39,7 +37,7 @@ const Chat_window = () => {
                 const responseData = await response.json();
                 console.log("Response data received:", responseData);
 
-                setChatHistory(chatHistory => [...chatHistory, { type: 'response', text: responseData.message }]);
+                setChatHistory(chatHistory => [...chatHistory, { type: 'response', text: responseData.response }]);
 
                 // Clear the input after sending
                 setMessage('');
