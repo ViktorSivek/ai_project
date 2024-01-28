@@ -9,7 +9,6 @@ const openai = new OpenAI({
 });
 
 export async function POST(req: NextApiRequest) {
-  console.log("Request body:", req.body);
   try {
     const body = await req.body.getReader().read();
     const decodedBody = new TextDecoder().decode(body.value);
@@ -31,12 +30,16 @@ export async function POST(req: NextApiRequest) {
       messages: [{ role: "user", content: message }],
     });
 
-    return new Response(JSON.stringify({ response: completion.choices[0].message.content }), {
+    const apiResponse = { response: completion.choices[0].message.content };
+    
+    return new Response(JSON.stringify(apiResponse), {
       status: 200,
       headers: {
         'Content-Type': 'application/json',
       },
     });
+
+
   } catch (error) {
     let errorMessage = 'An unknown error occurred';
     if (error instanceof Error) {

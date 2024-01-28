@@ -17,6 +17,8 @@ const Table = () => {
             const { data } = await response.json();
 
             const parsedItems = await parseXmlAndExtractTag(data);
+            const jsonString = JSON.stringify(parsedItems, null, 2);
+            console.log(jsonString);
             setparsedData(parsedItems);
         } catch (error) {
             console.error('Error fetching data:', error);
@@ -25,7 +27,6 @@ const Table = () => {
 
     const isCurrent = (endTimeString: string) => {
         const endTime = new Date(endTimeString);
-        console.log(endTime)
         const now = new Date();
         return endTime > now;
     };
