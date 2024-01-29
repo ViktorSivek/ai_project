@@ -8,7 +8,11 @@ type ChatMessage = {
     text: string;
 };
 
-const Chat_window = () => {
+interface ChatWindowProps {
+    jsonData: string;
+};
+
+const Chat_window: React.FC<ChatWindowProps> = ({ jsonData }) => {
     const [message, setMessage] = useState('');
     const [chatHistory, setChatHistory] = useState<ChatMessage[]>([]);
 
@@ -82,7 +86,9 @@ const Chat_window = () => {
             </div>
         </div>
     )
-}
- 
+};
+
 export default Chat_window;
+ 
+
 

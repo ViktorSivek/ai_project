@@ -3,7 +3,11 @@
 import { useState } from 'react';
 import { parseXmlAndExtractTag } from '@/utils/parseXML';
 
-const Table = () => {
+interface TableProps {
+    onDataFetch: (jsonString: string) => void;
+};
+
+const Table: React.FC<TableProps> = ({ onDataFetch }) => {
   
     const [parsedData, setparsedData] = useState<any>([]);
     const [currentPage, setCurrentPage] = useState(1);
@@ -17,9 +21,9 @@ const Table = () => {
             const { data } = await response.json();
 
             const parsedItems = await parseXmlAndExtractTag(data);
-            const jsonString = JSON.stringify(parsedItems, null, 2);
-            console.log(jsonString);
             setparsedData(parsedItems);
+            const jsonString = JSON.stringify(parsedItems, null, 2);
+            onDataFetch(jsonString);
         } catch (error) {
             console.error('Error fetching data:', error);
         }
