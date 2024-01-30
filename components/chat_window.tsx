@@ -26,12 +26,15 @@ const Chat_window: React.FC<ChatWindowProps> = ({ jsonData }) => {
             setChatHistory(chatHistory => [...chatHistory, { type: 'question', text: message }]);
 
             try {
+                const payload = { message, jsonData };
+                console.log("Sending request with payload:", payload);
+
                 const response = await fetch('/api/chat', {
                     method: 'POST',
                     headers: {
                         'Content-Type': 'application/json',
                     },
-                    body: JSON.stringify({ message }),
+                    body: JSON.stringify({ message, jsonData }),
                 });
 
                 if (!response.ok) {

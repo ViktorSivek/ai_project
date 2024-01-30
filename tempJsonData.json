@@ -1,0 +1,402 @@
+[
+  {
+    "MTXT": "Od 30.1.2024 17:50 do 18:50; D10 - 51.4km na trase Praha - Turnov; překážka na vozovce, průjezd se zvýšenou opatrností; 2 havarovaná vozidla",
+    "StartTime": "2024-01-30 17:50:00",
+    "EndTime": "2024-01-30 18:50:00",
+    "OTXT": "překážka na vozovce, průjezd se zvýšenou opatrností; 2 havarovaná vozidla",
+    "TXPL": "D10 - 51.4km na trase Praha - Turnov",
+    "SBEG": {}
+  },
+  {
+    "MTXT": "Od 30.1.2024 17:50 do 18:50; D3 - 94.6km na trase Mezno - České Budějovice; porouchané vozidlo, zdržení; překážka na vozovce, průjezd se zvýšenou opatrností; Odstavené neosvětlené vozidlo v pravém pruhu na sjezdu na Soběslav. PČR jede na místo.",
+    "StartTime": "2024-01-30 17:50:00",
+    "EndTime": "2024-01-30 18:50:00",
+    "OTXT": "porouchané vozidlo, zdržení; překážka na vozovce, průjezd se zvýšenou opatrností; Odstavené neosvětlené vozidlo v pravém pruhu na sjezdu na Soběslav. PČR jede na místo.",
+    "TXPL": "D3 - 94.6km na trase Mezno - České Budějovice",
+    "SBEG": {}
+  },
+  {
+    "MTXT": "Od 30.1.2024 17:40 do 19:45; na silnici 27 u obce Jesenice okres Rakovník; nehoda; zvěř na vozovce; Střet OA x srna, bez zranění osob. Na místo jede PČR.",
+    "StartTime": "2024-01-30 17:40:00",
+    "EndTime": "2024-01-30 19:45:00",
+    "OTXT": "nehoda; zvěř na vozovce; Střet OA x srna, bez zranění osob. Na místo jede PČR.",
+    "TXPL": "na silnici 27 u obce Jesenice okres Rakovník",
+    "SBEG": {}
+  },
+  {
+    "MTXT": "Od 30.1.2024 17:40 do 19:45; na silnici 432 u obce Hodonín; nehoda; havarované vozidlo; překážka na vozovce, průjezd se zvýšenou opatrností; havárie OA bez zranění osob.",
+    "StartTime": "2024-01-30 17:40:00",
+    "EndTime": "2024-01-30 19:45:00",
+    "OTXT": "nehoda; havarované vozidlo; překážka na vozovce, průjezd se zvýšenou opatrností; havárie OA bez zranění osob.",
+    "TXPL": "na silnici 432 u obce Hodonín",
+    "SBEG": {}
+  },
+  {
+    "MTXT": "Od 30.1.2024 17:40 do 18:45; na silnici 4639 u obce Fulnek okres Nový Jičín; jedná se o silnici č.4639 u obce Fulnek okr. N. Jičín; nehoda; zvěř na vozovce; Střet OA x srny, bez zranění osob",
+    "StartTime": "2024-01-30 17:40:00",
+    "EndTime": "2024-01-30 18:45:00",
+    "OTXT": "nehoda; zvěř na vozovce; Střet OA x srny, bez zranění osob",
+    "TXPL": "na silnici 4639 u obce Fulnek okres Nový Jičín; jedná se o silnici č.4639 u obce Fulnek okr. N. Jičín",
+    "SBEG": {}
+  },
+  {
+    "MTXT": "Od 30.1.2024 17:35 do 18:35; na silnici u obce Most; Pozor! Předmět na vozovce; havarované vozidlo; zvěř na vozovce; Střet OA x zvěř, bez zranění osob.",
+    "StartTime": "2024-01-30 17:35:00",
+    "EndTime": "2024-01-30 18:35:00",
+    "OTXT": "Pozor! Předmět na vozovce; havarované vozidlo; zvěř na vozovce; Střet OA x zvěř, bez zranění osob.",
+    "TXPL": "na silnici u obce Most",
+    "SBEG": {}
+  },
+  {
+    "MTXT": "Od 30.1.2024 17:35 do 18:35; na silnici 14 u obce Horní Branná okres Semily , délka 74m; nehoda; zvěř na vozovce; došlo ke střetu OA se srnou, bez zranění osob",
+    "StartTime": "2024-01-30 17:35:00",
+    "EndTime": "2024-01-30 18:35:00",
+    "OTXT": "nehoda; zvěř na vozovce; došlo ke střetu OA se srnou, bez zranění osob",
+    "TXPL": "na silnici 14 u obce Horní Branná okres Semily , délka 74m",
+    "SBEG": {}
+  },
+  {
+    "MTXT": "Od 30.1.2024 17:35 do 18:35; na silnici 408 u obce Třebětice okres Jindřichův Hradec; Komunikace II/408 ve směru Dačice - Jemnice 1 km za odbočkou k obci Ostojkovice; zvěř na vozovce; překážka na vozovce, průjezd se zvýšenou opatrností; Střet OA x zvěř, bez zranění osob. Na místo jede PČR.",
+    "StartTime": "2024-01-30 17:35:00",
+    "EndTime": "2024-01-30 18:35:00",
+    "OTXT": "zvěř na vozovce; překážka na vozovce, průjezd se zvýšenou opatrností; Střet OA x zvěř, bez zranění osob. Na místo jede PČR.",
+    "TXPL": "na silnici 408 u obce Třebětice okres Jindřichův Hradec; Komunikace II/408 ve směru Dačice - Jemnice 1 km za odbočkou k obci Ostojkovice",
+    "SBEG": {}
+  },
+  {
+    "MTXT": "Od 30.1.2024 17:35 do 18:35; na silnici 212 u obce Nový Kostel okres Cheb; zvěř na vozovce; překážka na vozovce, průjezd se zvýšenou opatrností; Střet OA se zvěří. Na místo jede PČR",
+    "StartTime": "2024-01-30 17:35:00",
+    "EndTime": "2024-01-30 18:35:00",
+    "OTXT": "zvěř na vozovce; překážka na vozovce, průjezd se zvýšenou opatrností; Střet OA se zvěří. Na místo jede PČR",
+    "TXPL": "na silnici 212 u obce Nový Kostel okres Cheb",
+    "SBEG": {}
+  },
+  {
+    "MTXT": "Od 30.1.2024 17:35 do 18:40; v ulici Legerova v obci Praha okres území Hlavního města Prahy; x Vinohradská; porouchané vozidlo, očekávejte zdržení; překážka na vozovce, průjezd se zvýšenou opatrností; pro poruchu odstavené vozidlo v levém pruhu",
+    "StartTime": "2024-01-30 17:35:00",
+    "EndTime": "2024-01-30 18:40:00",
+    "OTXT": "porouchané vozidlo, očekávejte zdržení; překážka na vozovce, průjezd se zvýšenou opatrností; pro poruchu odstavené vozidlo v levém pruhu",
+    "TXPL": "v ulici Legerova v obci Praha okres území Hlavního města Prahy; x Vinohradská",
+    "SBEG": {}
+  },
+  {
+    "MTXT": "Od 30.1.2024 17:30 do 18:35; na silnici 46 u obce Jakartovice okres Opava; jedná se o silnici č. 46 u obce Jakartovice okr. Opava; nehoda; zvěř na vozovce; Střet OA x srna, bez zranění osob",
+    "StartTime": "2024-01-30 17:30:00",
+    "EndTime": "2024-01-30 18:35:00",
+    "OTXT": "nehoda; zvěř na vozovce; Střet OA x srna, bez zranění osob",
+    "TXPL": "na silnici 46 u obce Jakartovice okres Opava; jedná se o silnici č. 46 u obce Jakartovice okr. Opava",
+    "SBEG": {}
+  },
+  {
+    "MTXT": "Od 30.1.2024 17:30 do 18:30; na silnici 225 u obce Libočany okres Louny; Mezi obcemi Libočany a Nové Sedlo.; nehoda; zvěř na vozovce; Střet OA x zvěř, bez zranění osob. Na místo jede PČR.",
+    "StartTime": "2024-01-30 17:30:00",
+    "EndTime": "2024-01-30 18:30:00",
+    "OTXT": "nehoda; zvěř na vozovce; Střet OA x zvěř, bez zranění osob. Na místo jede PČR.",
+    "TXPL": "na silnici 225 u obce Libočany okres Louny; Mezi obcemi Libočany a Nové Sedlo.",
+    "SBEG": {}
+  },
+  {
+    "MTXT": "Od 30.1.2024 17:25 do 19:30; v ulici Slévačská v obci Praha okres území Hlavního města Prahy; křižovatka  Poděbradská; nehoda; 2 havarovaná vozidla; 2 x OA, částečně blokují provoz.",
+    "StartTime": "2024-01-30 17:25:00",
+    "EndTime": "2024-01-30 19:30:00",
+    "OTXT": "nehoda; 2 havarovaná vozidla; 2 x OA, částečně blokují provoz.",
+    "TXPL": "v ulici Slévačská v obci Praha okres území Hlavního města Prahy; křižovatka  Poděbradská",
+    "SBEG": {}
+  },
+  {
+    "MTXT": "Od 30.1.2024 17:25 do 19:00; na silnici 36735 u obce Nová Dědina okres Kroměříž; sil. 36735; nehoda; probíhá vyšetřování nehody, nebezpečí; překážka, která brání provozu na celé vozovce nebo její části; OA x zvěř, bez zranění. Na místo jede PČR.",
+    "StartTime": "2024-01-30 17:25:00",
+    "EndTime": "2024-01-30 19:00:00",
+    "OTXT": "nehoda; probíhá vyšetřování nehody, nebezpečí; překážka, která brání provozu na celé vozovce nebo její části; OA x zvěř, bez zranění. Na místo jede PČR.",
+    "TXPL": "na silnici 36735 u obce Nová Dědina okres Kroměříž; sil. 36735",
+    "SBEG": {}
+  },
+  {
+    "MTXT": "Od 30.1.2024 17:20 do 18:25; v ulici Hrotovická v obci Třebíč; nehoda; probíhá vyšetřování nehody; Dopravní nehoda 2 osobních vozidel. Místo dopravní nehody průjezdné. Bez PČR",
+    "StartTime": "2024-01-30 17:20:00",
+    "EndTime": "2024-01-30 18:25:00",
+    "OTXT": "nehoda; probíhá vyšetřování nehody; Dopravní nehoda 2 osobních vozidel. Místo dopravní nehody průjezdné. Bez PČR",
+    "TXPL": "v ulici Hrotovická v obci Třebíč",
+    "SBEG": {}
+  },
+  {
+    "MTXT": "Od 30.1.2024 17:20 do 18:20; D5 - 2km na trase Praha - Rozvadov; porouchané vozidlo, zdržení; překážka na vozovce, průjezd se zvýšenou opatrností",
+    "StartTime": "2024-01-30 17:20:00",
+    "EndTime": "2024-01-30 18:20:00",
+    "OTXT": "porouchané vozidlo, zdržení; překážka na vozovce, průjezd se zvýšenou opatrností",
+    "TXPL": "D5 - 2km na trase Praha - Rozvadov",
+    "SBEG": {}
+  },
+  {
+    "MTXT": "Od 30.1.2024 17:20 do 19:25; na silnici 55 u obce Tlumačov okres Zlín; sil. 55,  49 km; nehoda; probíhají záchranné a vyprošťovací práce, nebezpečí; překážka, která brání provozu na celé vozovce nebo její části; Havárie OA přes střechu, srazilo 2 dopravní značky. Na místo složky IZS.",
+    "StartTime": "2024-01-30 17:20:00",
+    "EndTime": "2024-01-30 19:25:00",
+    "OTXT": "nehoda; probíhají záchranné a vyprošťovací práce, nebezpečí; překážka, která brání provozu na celé vozovce nebo její části; Havárie OA přes střechu, srazilo 2 dopravní značky. Na místo složky IZS.",
+    "TXPL": "na silnici 55 u obce Tlumačov okres Zlín; sil. 55,  49 km",
+    "SBEG": {}
+  },
+  {
+    "MTXT": "Od 30.1.2024 17:20 do 18:20; na silnici 315 u obce Ústí nad Orlicí; sil.č. II/315 z Ústí nad Orlicí na Knapovec; dopravní problém; nehoda; srážka OA se zvěří, dbejte zvýšené opatrnosti",
+    "StartTime": "2024-01-30 17:20:00",
+    "EndTime": "2024-01-30 18:20:00",
+    "OTXT": "dopravní problém; nehoda; srážka OA se zvěří, dbejte zvýšené opatrnosti",
+    "TXPL": "na silnici 315 u obce Ústí nad Orlicí; sil.č. II/315 z Ústí nad Orlicí na Knapovec",
+    "SBEG": {}
+  },
+  {
+    "MTXT": "Od 30.1.2024 17:10 do 18:10; na silnici 1376 u obce Ústrašice okres Tábor; Komunikace III/1376 za obcí Planá nad Lužnicí 2 km ve směru k obci Zhoř u Tábora; zvěř na vozovce; překážka na vozovce, průjezd se zvýšenou opatrností; Střet OA x zvěř, bez zranění osob. Na místo jede PČR.",
+    "StartTime": "2024-01-30 17:10:00",
+    "EndTime": "2024-01-30 18:10:00",
+    "OTXT": "zvěř na vozovce; překážka na vozovce, průjezd se zvýšenou opatrností; Střet OA x zvěř, bez zranění osob. Na místo jede PČR.",
+    "TXPL": "na silnici 1376 u obce Ústrašice okres Tábor; Komunikace III/1376 za obcí Planá nad Lužnicí 2 km ve směru k obci Zhoř u Tábora",
+    "SBEG": {}
+  },
+  {
+    "MTXT": "Od 30.1.2024 17:10 do 22:00; na silnici 39 u obce Volary okres Prachatice; Komunikace I/39 ve směru Volary 1,5km před obcí Lenora; nehoda nákladního vozidla; jízdní pruh uzavřen; Překladádka materiálu z havarováného NA",
+    "StartTime": "2024-01-30 17:10:00",
+    "EndTime": "2024-01-30 22:00:00",
+    "OTXT": "nehoda nákladního vozidla; jízdní pruh uzavřen; Překladádka materiálu z havarováného NA",
+    "TXPL": "na silnici 39 u obce Volary okres Prachatice; Komunikace I/39 ve směru Volary 1,5km před obcí Lenora",
+    "SBEG": {}
+  },
+  {
+    "MTXT": "Od 30.1.2024 17:05 do 18:05; na silnici 440 u obce Olšovec okres Přerov; nehoda; havarované vozidlo; zvěř na vozovce; Střet OA x zvěř, bez zranění osob. PČR jede na místo",
+    "StartTime": "2024-01-30 17:05:00",
+    "EndTime": "2024-01-30 18:05:00",
+    "OTXT": "nehoda; havarované vozidlo; zvěř na vozovce; Střet OA x zvěř, bez zranění osob. PČR jede na místo",
+    "TXPL": "na silnici 440 u obce Olšovec okres Přerov",
+    "SBEG": {}
+  },
+  {
+    "MTXT": "Od 30.1.2024 17:00 do 20:00; na silnici 24056 u obce Židovice okres Litoměřice; sil. 240 0,5 km před obcí Židovice; nehoda; Havárie bagru - bez zranění. Uzavřená komunikace. PČR a HZS na místě.",
+    "StartTime": "2024-01-30 17:00:00",
+    "EndTime": "2024-01-30 20:00:00",
+    "OTXT": "nehoda; Havárie bagru - bez zranění. Uzavřená komunikace. PČR a HZS na místě.",
+    "TXPL": "na silnici 24056 u obce Židovice okres Litoměřice; sil. 240 0,5 km před obcí Židovice",
+    "SBEG": {}
+  },
+  {
+    "MTXT": "Od 30.1.2024 16:50 do 18:55; v ulici Ječná v obci Praha okres území Hlavního města Prahy; nehoda; překážka na vozovce, průjezd se zvýšenou opatrností; 2 x OA",
+    "StartTime": "2024-01-30 16:50:00",
+    "EndTime": "2024-01-30 18:55:00",
+    "OTXT": "nehoda; překážka na vozovce, průjezd se zvýšenou opatrností; 2 x OA",
+    "TXPL": "v ulici Ječná v obci Praha okres území Hlavního města Prahy",
+    "SBEG": {}
+  },
+  {
+    "MTXT": "Od 30.1.2024 16:45 do 18:50; na silnici 14 u obce Nové Město nad Metují okres Náchod; nehoda; zvěř na vozovce; Střet OA x srna, bez zranění osob. Na místo jede PČR.",
+    "StartTime": "2024-01-30 16:45:00",
+    "EndTime": "2024-01-30 18:50:00",
+    "OTXT": "nehoda; zvěř na vozovce; Střet OA x srna, bez zranění osob. Na místo jede PČR.",
+    "TXPL": "na silnici 14 u obce Nové Město nad Metují okres Náchod",
+    "SBEG": {}
+  },
+  {
+    "MTXT": "Od 30.1.2024 16:35 do 18:40; D2 - 10.3-0km na trase Lanžhot - Brno; tvorba kolon vozidel v úseku 10 km",
+    "StartTime": "2024-01-30 16:35:00",
+    "EndTime": "2024-01-30 18:40:00",
+    "OTXT": "tvorba kolon vozidel v úseku 10 km",
+    "TXPL": "D2 - 10.3-0km na trase Lanžhot - Brno",
+    "SBEG": {}
+  },
+  {
+    "MTXT": "Od 30.1.2024 16:35 do 18:40; D2 - 10.3-0km na trase Lanžhot - Brno; tvorba kolon vozidel v úseku 10 km",
+    "StartTime": "2024-01-30 16:35:00",
+    "EndTime": "2024-01-30 18:40:00",
+    "OTXT": "tvorba kolon vozidel v úseku 10 km",
+    "TXPL": "D2 - 10.3-0km na trase Lanžhot - Brno",
+    "SBEG": {}
+  },
+  {
+    "MTXT": "Od 30.1.2024 16:35 do 18:40; D2 - 10.3-0km na trase Lanžhot - Brno; tvorba kolon vozidel v úseku 10 km",
+    "StartTime": "2024-01-30 16:35:00",
+    "EndTime": "2024-01-30 18:40:00",
+    "OTXT": "tvorba kolon vozidel v úseku 10 km",
+    "TXPL": "D2 - 10.3-0km na trase Lanžhot - Brno",
+    "SBEG": {}
+  },
+  {
+    "MTXT": "Od 30.1.2024 16:30 do 18:35; na trase Troja - Štěrboholy v ulici Jižní spojka v obci Praha okres území Hlavního města Prahy; nehoda; probíhá vyšetřování nehody; NA x OA, na místo jede PČR.",
+    "StartTime": "2024-01-30 16:30:00",
+    "EndTime": "2024-01-30 18:35:00",
+    "OTXT": "nehoda; probíhá vyšetřování nehody; NA x OA, na místo jede PČR.",
+    "TXPL": "na trase Troja - Štěrboholy v ulici Jižní spojka v obci Praha okres území Hlavního města Prahy",
+    "SBEG": {}
+  },
+  {
+    "MTXT": "Od 30.1.2024 16:30 do 18:35; v ulici Kounicova v obci Brno; nehoda; 2 havarovaná vozidla; kyvadlový provoz jedním jízdním pruhem; 2 x OA se zraněním. Složky IZS jedou na místo.",
+    "StartTime": "2024-01-30 16:30:00",
+    "EndTime": "2024-01-30 18:35:00",
+    "OTXT": "nehoda; 2 havarovaná vozidla; kyvadlový provoz jedním jízdním pruhem; 2 x OA se zraněním. Složky IZS jedou na místo.",
+    "TXPL": "v ulici Kounicova v obci Brno",
+    "SBEG": {}
+  },
+  {
+    "MTXT": "Od 30.1.2024 16:25 do 18:30; na silnici 46211 v obci Fulnek okres Nový Jičín; nehoda; havarované vozidlo; Havárie OA,  bez zranění.",
+    "StartTime": "2024-01-30 16:25:00",
+    "EndTime": "2024-01-30 18:30:00",
+    "OTXT": "nehoda; havarované vozidlo; Havárie OA,  bez zranění.",
+    "TXPL": "na silnici 46211 v obci Fulnek okres Nový Jičín",
+    "SBEG": {}
+  },
+  {
+    "MTXT": "Od 30.1.2024 16:25 do 18:30; na silnici 21042 v obci Krajková okres Sokolov; nehoda; 2 havarovaná vozidla; 2 x OA se zraněním. Na místo jedou složky IZS. nyní v obou směrech neprůjezdné",
+    "StartTime": "2024-01-30 16:25:00",
+    "EndTime": "2024-01-30 18:30:00",
+    "OTXT": "nehoda; 2 havarovaná vozidla; 2 x OA se zraněním. Na místo jedou složky IZS. nyní v obou směrech neprůjezdné",
+    "TXPL": "na silnici 21042 v obci Krajková okres Sokolov",
+    "SBEG": {}
+  },
+  {
+    "MTXT": "Od 30.1.2024 16:20 do 18:25; D1 - 171.3km na trase Říkovice - Praha; porouchané vozidlo, zdržení; neprůjezdná zpevněná krajnice; Porouchané  NA.",
+    "StartTime": "2024-01-30 16:20:00",
+    "EndTime": "2024-01-30 18:25:00",
+    "OTXT": "porouchané vozidlo, zdržení; neprůjezdná zpevněná krajnice; Porouchané  NA.",
+    "TXPL": "D1 - 171.3km na trase Říkovice - Praha",
+    "SBEG": {}
+  },
+  {
+    "MTXT": "Od 30.1.2024 16:10 do 18:15; v ulici Svárovská v obci Červený Újezd okres Praha-západ; nehoda; probíhá vyšetřování nehody; OA x BUS - bez úniku, místo údajně neprůjezdné",
+    "StartTime": "2024-01-30 16:10:00",
+    "EndTime": "2024-01-30 18:15:00",
+    "OTXT": "nehoda; probíhá vyšetřování nehody; OA x BUS - bez úniku, místo údajně neprůjezdné",
+    "TXPL": "v ulici Svárovská v obci Červený Újezd okres Praha-západ",
+    "SBEG": {}
+  },
+  {
+    "MTXT": "Od 30.1.2024 16:10 do 18:15; v ulici Štúrova v obci Teplice; nehoda; překážka na vozovce, průjezd se zvýšenou opatrností; 2 x OA, bez zranění",
+    "StartTime": "2024-01-30 16:10:00",
+    "EndTime": "2024-01-30 18:15:00",
+    "OTXT": "nehoda; překážka na vozovce, průjezd se zvýšenou opatrností; 2 x OA, bez zranění",
+    "TXPL": "v ulici Štúrova v obci Teplice",
+    "SBEG": {}
+  },
+  {
+    "MTXT": "Od 30.1.2024 16:05 do 18:10; v ulici Reissigova v obci Brno; nehoda; překážka na vozovce, průjezd se zvýšenou opatrností; 2 x OA bez zranění.",
+    "StartTime": "2024-01-30 16:05:00",
+    "EndTime": "2024-01-30 18:10:00",
+    "OTXT": "nehoda; překážka na vozovce, průjezd se zvýšenou opatrností; 2 x OA bez zranění.",
+    "TXPL": "v ulici Reissigova v obci Brno",
+    "SBEG": {}
+  },
+  {
+    "MTXT": "Od 30.1.2024 16:00 do 18:05; D1 - 185km na trase Říkovice - Praha; objízdné přes BČS; nehoda; 2 havarovaná vozidla; neprůjezdná komunikace; DOD x OA se zraněním. Složky IZS jedou na místo.",
+    "StartTime": "2024-01-30 16:00:00",
+    "EndTime": "2024-01-30 18:05:00",
+    "OTXT": "nehoda; 2 havarovaná vozidla; neprůjezdná komunikace; DOD x OA se zraněním. Složky IZS jedou na místo.",
+    "TXPL": "D1 - 185km na trase Říkovice - Praha; objízdné přes BČS",
+    "SBEG": {}
+  },
+  {
+    "MTXT": "Od 30.1.2024 15:50 do 17:55; v ulici Pražská v obci Dolní Břežany okres Praha-západ; nehoda; probíhá vyšetřování nehody; 2 x OA, bez úniku PL",
+    "StartTime": "2024-01-30 15:50:00",
+    "EndTime": "2024-01-30 17:55:00",
+    "OTXT": "nehoda; probíhá vyšetřování nehody; 2 x OA, bez úniku PL",
+    "TXPL": "v ulici Pražská v obci Dolní Břežany okres Praha-západ",
+    "SBEG": {}
+  },
+  {
+    "MTXT": "Od 30.1.2024 09:25 do 31.1.2024 10:25; v ulicích Novohradská, nám. Švabinského v obci České Budějovice , délka 695m; Č.Budějovice,  ul. Novohradská - celá; kyvadlový provoz jedním jízdním pruhem; Probíhají stavební práce na komunikaci - oprava výtluků",
+    "StartTime": "2024-01-30 09:25:00",
+    "EndTime": "2024-01-31 10:25:00",
+    "OTXT": "kyvadlový provoz jedním jízdním pruhem; Probíhají stavební práce na komunikaci - oprava výtluků",
+    "TXPL": "v ulicích Novohradská, nám. Švabinského v obci České Budějovice , délka 695m; Č.Budějovice,  ul. Novohradská - celá",
+    "SBEG": {}
+  },
+  {
+    "MTXT": "Od 30.1.2024 07:55 do 31.1.2024 08:00; na silnici 308 u obce České Meziříčí okres Rychnov nad Kněžnou; bahno na vozovce; sjízdné se zvýšenou opatrností; znečištěná vozovka v důsledku vysypané hlíny .",
+    "StartTime": "2024-01-30 07:55:00",
+    "EndTime": "2024-01-31 08:00:00",
+    "OTXT": "bahno na vozovce; sjízdné se zvýšenou opatrností; znečištěná vozovka v důsledku vysypané hlíny .",
+    "TXPL": "na silnici 308 u obce České Meziříčí okres Rychnov nad Kněžnou",
+    "SBEG": {}
+  },
+  {
+    "MTXT": "Od 30.1.2024 00:20 do 31.1.2024 06:30; na silnici v obci Vrbice okres Karlovy Vary; Aktuálně: NN odstaven II/606 v obci Bošov, bude pokračovat 30.1. ve 22,00 hod dle harmonogramu.; Pozor! Nadměrný náklad; Pozor! Očekávejte zdržení; NN přeprava core bareel Plzeň - Lovosice.\nNN parametry: d 51,00 m; š 5,40m; v 5,60 m; hmotnost 217,80 t.\nPřepravní trasa: Plzeň – Lovosice\nBošov  I/6 – II/606  – Libkovice – Lubenec II/606 - II/226 – Drahonice – Lužec – Vroutek  – Podbořany II/226 - II/221 - II/224 - II/226  – Pšov II/226 - I/27 – Sýrovice – Radíčeves - Žatec I/27  -II/225 –  Trnovany – Drahomyšl – Lipenec – Zeměchy – nájezd na D7 exit 49 - D7 sjezd exit 49 vpravo - I/28 – Louny  – Raná  – II/257 – Kozly  – I/15 – Libčeves – I/15 Želkovice – Třebívlice – Podsedice – Třebenice  – Jenčice – Čížkovice – Sulejovice –D8 - EXIT 48 – D8 – EXIT 45 –  II/247 - III/0089 – přístav Lovosice,",
+    "StartTime": "2024-01-30 00:20:00",
+    "EndTime": "2024-01-31 06:30:00",
+    "OTXT": "Pozor! Nadměrný náklad; Pozor! Očekávejte zdržení; NN přeprava core bareel Plzeň - Lovosice.\nNN parametry: d 51,00 m; š 5,40m; v 5,60 m; hmotnost 217,80 t.\nPřepravní trasa: Plzeň – Lovosice\nBošov  I/6 – II/606  – Libkovice – Lubenec II/606 - II/226 – Drahonice – Lužec – Vroutek  – Podbořany II/226 - II/221 - II/224 - II/226  – Pšov II/226 - I/27 – Sýrovice – Radíčeves - Žatec I/27  -II/225 –  Trnovany – Drahomyšl – Lipenec – Zeměchy – nájezd na D7 exit 49 - D7 sjezd exit 49 vpravo - I/28 – Louny  – Raná  – II/257 – Kozly  – I/15 – Libčeves – I/15 Želkovice – Třebívlice – Podsedice – Třebenice  – Jenčice – Čížkovice – Sulejovice –D8 - EXIT 48 – D8 – EXIT 45 –  II/247 - III/0089 – přístav Lovosice,",
+    "TXPL": "na silnici v obci Vrbice okres Karlovy Vary; Aktuálně: NN odstaven II/606 v obci Bošov, bude pokračovat 30.1. ve 22,00 hod dle harmonogramu.",
+    "SBEG": {}
+  },
+  {
+    "MTXT": "Od 29.1.2024 19:35 do 30.1.2024 22:00; na silnici 04910 u obce Francova Lhota okres Vsetín; silnice č. 04910 kilometr 1,; ledovka, průjezd se zvýšenou opatrností; Namrzlá vozovka, ohrožuje BESIP.",
+    "StartTime": "2024-01-29 19:35:00",
+    "EndTime": "2024-01-30 22:00:00",
+    "OTXT": "ledovka, průjezd se zvýšenou opatrností; Namrzlá vozovka, ohrožuje BESIP.",
+    "TXPL": "na silnici 04910 u obce Francova Lhota okres Vsetín; silnice č. 04910 kilometr 1,",
+    "SBEG": {}
+  },
+  {
+    "MTXT": "Od 19.1.2024 11:50 do 31.3.2024 23:55; na silnici 2523 u obce Blatno okres Chomutov , délka 318m; uzavřeno, mimořádná událost; polomy - popadané stromy.",
+    "StartTime": "2024-01-19 11:50:00",
+    "EndTime": "2024-03-31 23:55:00",
+    "OTXT": "uzavřeno, mimořádná událost; polomy - popadané stromy.",
+    "TXPL": "na silnici 2523 u obce Blatno okres Chomutov , délka 318m",
+    "SBEG": {}
+  },
+  {
+    "MTXT": "Od 12.1.2024 02:00 do 1.3.2024 00:00; v ulici Dukelských hrdinů v obci Praha okres území Hlavního města Prahy , délka 29m; práce na údržbě mostu; uzavřeno",
+    "StartTime": "2024-01-12 02:00:00",
+    "EndTime": "2024-03-01 00:00:00",
+    "OTXT": "práce na údržbě mostu; uzavřeno",
+    "TXPL": "v ulici Dukelských hrdinů v obci Praha okres území Hlavního města Prahy , délka 29m",
+    "SBEG": {}
+  },
+  {
+    "MTXT": "Od 10.1.2024 12:45 do 31.1.2024 23:55; na silnici v obci Kašava okres Zlín , délka 1.1km; ledovka; neprůjezdná komunikace; silnice se v zimě neudržuje.",
+    "StartTime": "2024-01-10 12:45:00",
+    "EndTime": "2024-01-31 23:55:00",
+    "OTXT": "ledovka; neprůjezdná komunikace; silnice se v zimě neudržuje.",
+    "TXPL": "na silnici v obci Kašava okres Zlín , délka 1.1km",
+    "SBEG": {}
+  },
+  {
+    "MTXT": "Od 9.1.2024 09:25 do 29.2.2024 20:00; na silnici 4932 v obcích Vizovice a Loučka okres Zlín , délka 5.2km; silnice z Vizovic do Loučky přes kopec; očekávejte kluzkou vozovku; ledovka; Silnice se v zimě neudržuje.",
+    "StartTime": "2024-01-09 09:25:00",
+    "EndTime": "2024-02-29 20:00:00",
+    "OTXT": "očekávejte kluzkou vozovku; ledovka; Silnice se v zimě neudržuje.",
+    "TXPL": "na silnici 4932 v obcích Vizovice a Loučka okres Zlín , délka 5.2km; silnice z Vizovic do Loučky přes kopec",
+    "SBEG": {}
+  },
+  {
+    "MTXT": "Od 29.11.2023 15:00 do 30.3.2024 15:05; na silnici 2487 u obce Krupka okres Teplice , délka 2.2km; sněhové jazyky v polohách nad 300 m.n.m.; neprůjezdná komunikace; sníh na vozovce; silnice se v zimě neudržuje.",
+    "StartTime": "2023-11-29 15:00:00",
+    "EndTime": "2024-03-30 15:05:00",
+    "OTXT": "sněhové jazyky v polohách nad 300 m.n.m.; neprůjezdná komunikace; sníh na vozovce; silnice se v zimě neudržuje.",
+    "TXPL": "na silnici 2487 u obce Krupka okres Teplice , délka 2.2km",
+    "SBEG": {}
+  },
+  {
+    "MTXT": "Od 29.11.2023 14:55 do 30.3.2024 15:00; na silnici 2484 u obce Telnice okres Ústí nad Labem , délka 2.3km; sněhové jazyky v polohách nad 300 m.n.m.; uzavřeno; v zimním období součástí sjezdových tratí.",
+    "StartTime": "2023-11-29 14:55:00",
+    "EndTime": "2024-03-30 15:00:00",
+    "OTXT": "sněhové jazyky v polohách nad 300 m.n.m.; uzavřeno; v zimním období součástí sjezdových tratí.",
+    "TXPL": "na silnici 2484 u obce Telnice okres Ústí nad Labem , délka 2.3km",
+    "SBEG": {}
+  },
+  {
+    "MTXT": "Od 29.11.2023 09:50 do 1.3.2024 00:00; v ulici Dukelských hrdinů v obci Praha okres území Hlavního města Prahy , délka 145m; ve směru do centra; práce na silnici; jízdní pruh uzavřen; provoz po tramvajových kolejích.",
+    "StartTime": "2023-11-29 09:50:00",
+    "EndTime": "2024-03-01 00:00:00",
+    "OTXT": "práce na silnici; jízdní pruh uzavřen; provoz po tramvajových kolejích.",
+    "TXPL": "v ulici Dukelských hrdinů v obci Praha okres území Hlavního města Prahy , délka 145m; ve směru do centra",
+    "SBEG": {}
+  },
+  {
+    "MTXT": "Od 18.11.2023 15:25 do 31.3.2024 12:00; na silnici 56 mezi obcemi Bílá a Ostravice okres Frýdek-Místek , délka 20km; uzavřeno pro těžká nákladní vozidla nad 12 tun",
+    "StartTime": "2023-11-18 15:25:00",
+    "EndTime": "2024-03-31 12:00:00",
+    "OTXT": "uzavřeno pro těžká nákladní vozidla nad 12 tun",
+    "TXPL": "na silnici 56 mezi obcemi Bílá a Ostravice okres Frýdek-Místek , délka 20km",
+    "SBEG": {}
+  },
+  {
+    "MTXT": "Od 18.11.2023 15:25 do 31.3.2024 12:00; na silnici 56 mezi obcemi Bílá a Ostravice okres Frýdek-Místek , délka 20km; uzavřeno pro těžká nákladní vozidla nad 12 tun",
+    "StartTime": "2023-11-18 15:25:00",
+    "EndTime": "2024-03-31 12:00:00",
+    "OTXT": "uzavřeno pro těžká nákladní vozidla nad 12 tun",
+    "TXPL": "na silnici 56 mezi obcemi Bílá a Ostravice okres Frýdek-Místek , délka 20km",
+    "SBEG": {}
+  }
+]
